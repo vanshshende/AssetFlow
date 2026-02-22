@@ -158,6 +158,13 @@ Heavy tools, vehicles
 
 Containers, carts
 
+### Manufacturing Plants
+
+Automotive assembly lines (Ford, Toyota)
+
+### Electronics factories
+They track tools and parts to prevent downtime and unlock optimization
+
 ---
 
 # ✅ Advantages
